@@ -1,4 +1,4 @@
-# **Hotel Booking Analysis**  
+# **Hotel Booking Analysis** 
 
 **Overview:**  
 This project focuses on analyzing hotel booking data to uncover key insights related to booking trends, cancellations, revenue, and customer behavior. The analysis is performed using **Jupyter Notebook and Google Colab** for data processing, visualization, and reporting.  
